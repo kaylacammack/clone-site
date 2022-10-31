@@ -1,0 +1,20 @@
+.summary-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  width: 70vw;
+  margin: auto;
+}
+
+.carousel-inner {
+  height: 50vh;
+}
+
+p {
+  font-size: xx-large;
+}
+
+.section-container {
+  background-color: turquoise;
+}
